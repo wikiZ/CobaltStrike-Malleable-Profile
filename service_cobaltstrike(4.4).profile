@@ -1,4 +1,4 @@
-set sample_name "zangge";
+set sample_name "fengqi";
 set sleeptime "3000";
 set jitter    "20";
 set ssh_banner "OpenSSH_7.3 Debian (protocol 2.0)";
@@ -26,11 +26,11 @@ dns-beacon {
 }
 https-certificate {
     set keystore "cobaltstrikes.store";
-    set password "zxy1402720815";
+    set password "123456";
 }
 code-signer{
     set keystore "cobaltstrikes.store";
-    set password "zxy1402720815";
+    set password "123456";
     set alias "aliyun.com";
 }
 http-get {
