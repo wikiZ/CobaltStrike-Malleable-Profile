@@ -1,4 +1,4 @@
-set sample_name "zangge";
+set sample_name "fengqi";
 
 set sleeptime "3000";
 set jitter    "20";
